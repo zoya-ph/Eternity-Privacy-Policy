@@ -36,7 +36,7 @@ I want to inform users of this Service that these third parties can have access 
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-##Children’s Privacy
+## Children’s Privacy
 
 These Services do not address anyone under the age of 4.
 
